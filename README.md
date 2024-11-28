@@ -1,2 +1,2 @@
 # DDM
-Python or Matlab code to perform Differential Dynamic Microscopy
+Python code to perform Differential Dynamic Microscopy
